@@ -10,7 +10,7 @@ In Riel zijn drie boerderijen aangewezen als Rijksmonument, daarnaast heeft het 
 
 ### Siuatiekaart:
 
-![Situatiekaart](situatiekaart.jpg)
+![Situatiekaart](situatiekaart.jpg)  
 *Bron: © 2001 Gemeente Eindhoven*
 
 ## De langgevelboerderij
