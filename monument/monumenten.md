@@ -34,8 +34,8 @@ Bouwjaar: 1876
 *(Foto: gemeente Eindhoven, dienst SOB)*
 
 Kempense langgevelboerderij onder pannen wolfdak. De inrijpoorten zijn getoogd. In het woongedeelte vensters met zesruits schuiframen en luiken. De schuur heeft eveneens een met pannen gedekt wolfdak.
-Het bouwtype is cultuurhistorisch waardevol en getuigt van een vroegere leefwijze.
 
+Het bouwtype is cultuurhistorisch waardevol en getuigt van een vroegere leefwijze.  
 De boerderij vormt samen met andere de kern van het gehucht Riel.
 
 ## Riel 13, Kempense langgevelboerderij
@@ -46,8 +46,8 @@ Bouwjaar: vóór 1850
 *(Foto:gemeente Eindhoven, dienst SOB, Arnoud Wakkerman)*
 
 Kempense langgevelboerderij met wolfdak gedekt met riet en pannen. In het woongedeelte vensters met zesruits schuiframen en luiken. Op het erf staan een stenen schuur, een houten karrenschop en een bakhuis.
-Het bouwtype is cultuurhistorisch waardevol en getuigt van een vroegere leefwijze.
 
+Het bouwtype is cultuurhistorisch waardevol en getuigt van een vroegere leefwijze.  
 De boerderij vormt samen met andere de kern van het gehucht Riel.
 
 ## Riel 14, Kempense langgevelboerderij
@@ -58,8 +58,8 @@ Bouwjaar: vóór 1850
 *(Foto:gemeente Eindhoven, dienst SOB, Arnoud Wakkerman)*
 
 Kempense langgevelboerderij met wolfdak gedekt met riet en pannen. In 1877 na een brand herbouwd. In het woongedeelte vensters met schuiframen, kleine roedenverdeling en luiken. Op het erf staan een houten karrenschop en een bakhuis. In het interieur bevindt zich nog een oude schouw.
-Het bouwtype is cultuurhistorisch waardevol en getuigt van een vroegere leefwijze.
 
+Het bouwtype is cultuurhistorisch waardevol en getuigt van een vroegere leefwijze.  
 De boerderij vormt samen met andere de kern van het gehucht Riel.
 
 ## Beschermd dorpsgezicht Riel
@@ -67,6 +67,8 @@ Rijksmonument
 
 ![Situatie Riel](situatieriel.jpg)  
 *situatie Riel*
+
 Riel is een gehucht waar de landschapsstructuur van kleinschalige akkers en de beplanting van wegen en erven, in de eerste helft van de 20e eeuw nog zo karakteristiek voor het buitengebied, gaaf bewaard is gebleven. Het is een voorbeeld van een beekdalnederzetting, deels gelegen op een kleine dekzandrug De Donck, deels aan de rand van het dal van de Lakerloop.
+
 Centraal in het gehucht ligt een eikenweide met een brand- of drenkkuil.  
 Tot 1921 hoorde het gebied bij de gemeente Zesgehuchten en tot 1972 bij Geldrop.
