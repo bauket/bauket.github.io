@@ -14,9 +14,8 @@ Rondom het Speelhuis lag een grote gracht, Die zich zelfs uitstrekte tot ver voo
 
 We zagen reeds dat de Landcommanderie van Aldenbiezen het patronaatsrecht ahd over de parochie Geldrop. Aanvankelijk trokken de bewoners van Riel naar de kerk te Geldrop. Aan get einde van de 15e eeuw werd in het zuidelijk gedeelte van Riel, nabij de Lakerloop, de kapel gebouwd, die gewijd zou worden aan Antonius Abt. Dit kerkgebouw moet vrij groot zijn geweest, aangezien het drie altaren bevatte. In 1520 werd het gebouw "weer opgebouwd". Misschien is het in 1512 verwoest door Gelderse troepen. Tot 1559 viel de kapel onder het bisdom Luik. In 1648 werden de kerk van Geldrop en de kapel van Riel in beslag genomen door de protestanten. De beelden die toen in de kapel waren, vonden een veilig onderkomen bij de boeren van dit gehucht. Zij kwamen pas aan het begin van de eeuw boven water en werden toen verkocht. De huidige verblijfplaats is nog onbekend. Wel is het wijwatervat van Riel bewaard gebleven.
 
-Tekst: Jean Coenen, 1987
+Bron: De historie van Riel, door Jean Coenen, 1987
 
-De historie van Riel, door Jean Coenen, 1987
-[<< De geschiedenis van het gehucht Riel](coenen1)
-De belangrijkste gebouwen op Riel
 [De wegenstructuur rondom Riel >>](coenen3)
+
+[<< De geschiedenis van het gehucht Riel](coenen1) -- [De wegenstructuur rondom Riel >>](coenen3)
