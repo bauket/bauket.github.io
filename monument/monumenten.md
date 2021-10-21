@@ -4,8 +4,8 @@ In Riel zijn drie boerderijen aangewezen als Rijksmonument, daarnaast heeft het 
 
 ## Monumenten in Riel:
 * [Riel 2](#riel-2-kempense-langgevelboerderij), Kempense langgevelboerderij
-* [Riel 13](#riel-13-kempense-langgevelboerderij)Riel 13, Kempense langgevelboerderij
-* [Riel 14](#riel-14-kempense-langgevelboerderij)Riel 14, Kempense langgevelboerderij
+* [Riel 13](#riel-13-kempense-langgevelboerderij), Kempense langgevelboerderij
+* [Riel 14](#riel-14-kempense-langgevelboerderij), Kempense langgevelboerderij
 * [Riel beschermd dorpsgezicht](#beschermd-dorpsgezicht-riel)
 
 ### Siuatiekaart:
