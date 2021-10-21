@@ -16,7 +16,7 @@ Zesgehuchten hoorde bij de heerlijkheid Heeze, Leende en Zesgehuchten en bestond
 Op het tegeltableau van het voormalig gemeentehuis maakte de ontwerper een historische fout: hij vermeldde niet het gehucht Genoenhuis (wat "dat nieuwe huis" betekent) maar spreekt wel over 't Zand.
 Ook noemt hij Papenvoort dat echter een buurtschap van Hulst was.
 
-![wapen](https://riel.dse.nl/historie/images/wapenvanzesgehuchten.jpg "Het wapen van Zesgehuchten")
+![wapen](wapenvanzesgehuchten.jpg "Het wapen van Zesgehuchten")
 
 Het gehucht Riel lag vroeger in een bosrijke omgeving. De naam komt van Rielle of Rietlo en "lo" betekent open plek in het bos.
 De naam 't Hout duidt eveneens op bos, terwijl het woord "rooi" in Gijzenrooi ons vertelt dat het bos van Gijsbrecht werd ontgonnen.
