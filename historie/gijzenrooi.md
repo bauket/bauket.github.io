@@ -4,7 +4,7 @@ Voor de historie van Gijzenrooi moeten we terug naar Zesgehuchten in Geldrop.
 Geldrop was een zogenaamde heerlijkheid, leenroerig aan de hertog van Gelre. Dat wil zeggen dat de Heer van Geldrop bepaalde rechten had over de Geldroppenaren en dat hij een leenband had met de hertog van Gelre, die hij trouw beloofde. Ook andere plaatsen in de omtrek waren heerlijkheden, zoals Heeze, Mierlo, Nuenen en Helmond. De heerlijkheid Geldrop was qua omvang kleiner dan de parochie Geldrop, waartoe ook Zesgehuchten behoorde. De macht van de Heer strekte zich uit over de gehuchten Grote en Kleine Heuvel en Groot en Klein Braakhuizen. De zogenaamde Zesgehuchten, te weten Genoenhuis, Riel, Hoog Geldrop, Hout, Hulst en Gijzenrooi maakten deel uit van de heerlijkheid Heeze- Leende-Zesgehuchten.
 Het oorspronkelijke Gijzenrooi, het Geldropse gehucht behorende bij Zesgehuchten ligt vijftien honderd meter zuidoostelijk van het Eindhovense Gijzenrooi, het gebied rond de kampeerboerderij 'Het Uilenest'.
 
-![Zesgehuchten](zesgehuchten.gif "Zesgehuchten")
+![Zesgehuchten](zesgehugten.gif "Zesgehuchten")
 
 De ligging van de Zes gehuchten en Geldropse buurtschappen. De grens geeft de omvang van de gemeente aan, zoals die was in 1921. In het westen grensde Zesgehuchten aan Stratum
 
