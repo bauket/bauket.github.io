@@ -66,7 +66,7 @@ De boerderij vormt samen met andere de kern van het gehucht Riel.
 Rijksmonument
 
 ![Situatie Riel](situatieriel.jpg)  
-*situatie Riel*
+*situatie Riel in gemeente Eindhoven. Bron: © 2001 Gemeente Eindhoven*
 
 Riel is een gehucht waar de landschapsstructuur van kleinschalige akkers en de beplanting van wegen en erven, in de eerste helft van de 20e eeuw nog zo karakteristiek voor het buitengebied, gaaf bewaard is gebleven. Het is een voorbeeld van een beekdalnederzetting, deels gelegen op een kleine dekzandrug De Donck, deels aan de rand van het dal van de Lakerloop.
 
