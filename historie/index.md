@@ -2,8 +2,8 @@
 
 ## De historie van Riel, door Jean Coenen, 1987
 
-- [De geschiedenis van het gehucht Riel](./geschiedenis)
-- [De belangrijkste gebouwen op Riel](./gebouwen)
+- [De geschiedenis van het gehucht Riel](coenen1)
+- [De belangrijkste gebouwen op Riel](coenen2)
 - [De wegenstructuur rondom Riel](./wegen)
 - [De landerijen rondom Riel](./landerijen)
 - [De huidige historische overblijfselen](./overblijfselen)
