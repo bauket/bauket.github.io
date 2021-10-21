@@ -3,7 +3,7 @@
 Rijksmonument  
 Bouwjaar: 1876
 
-![Riel 2](riel2.jpg)
+![Riel 2](riel2.jpg)  
 *(Foto: gemeente Eindhoven, dienst SOB)*
 
 Kempense langgevelboerderij onder pannen wolfdak. De inrijpoorten zijn getoogd. 
