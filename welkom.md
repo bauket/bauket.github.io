@@ -1,3 +1,4 @@
+{{ navigation }}
 
 # Welkom op Riel
 
