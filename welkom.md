@@ -1,5 +1,3 @@
-{{ navigation }}
-
 # Welkom op Riel
 
 Als een groene oase ligt het gehucht Riel onder de rook van Eindhoven. Waren er vroeger plannen om Riel aan de stadsuitbreidingen van zijn grote buur op te offeren, nu is gelukkig vastgesteld dat deze lieflijke nederzetting, met zijn deels onverharde wegen, fraaie struwelen en karakteristieke boerderijen, als beschermd dorpsgezicht bewaard moet blijven.
