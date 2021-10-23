@@ -1,32 +1,33 @@
 # Riel - een Kempisch gehucht
 
-*(Bron: Dienst Ruimtelijke Ordening en Verkeer)*
-
-![Voorblad](images/voorblad.jpg)
 ## Studie naar de waarde van Riel ter verkrijging van het predikaat "Beschermd Dorpsgezicht", oktober 1979
 
+![Voorblad](images/voorblad.jpg)  
+*(Bron: Dienst Ruimtelijke Ordening en Verkeer)*
+
 ### Inhoudsopgave
-Verantwoording
-[1. Inleiding](1.inleiding.md)
-1.1 Planologische voorgeschiedenis
-1.2 Beleidskader diverse overheden t.a.v. Riel
-1.3 Probleemstelling
-2. Bebouwing en grondgebruik
-1.2 Stedebouwkundige ontwikkeling
-2.2 Aard van de bebouwing
-2.3 Bebouwingskwaliteit
-2.4 Eigendommen en grondgebruik
-3. Natuur en landschap
-3.1 Landschappelijke ontwikkeling
-3.2 Bodem en water
-3.3 Vegetatie
-3.4 Fauna
-3.5 Ecologische kwaliteit
-4. Verkeer
-Samenvatting en conclusie
-Bijlage 1: Procedure van aanwijzing tot beschermd stads- of dorpsgezicht
-Bijlage 2: Samenvattingen van gesprekken met bewoners van Riel
-Gebruikte bronnen
+Verantwoording  
+[1. Inleiding](1.inleiding)  
+1.1 Planologische voorgeschiedenis  
+1.2 Beleidskader diverse overheden t.a.v. Riel  
+1.3 Probleemstelling  
+[2. Bebouwing en grondgebruik](2.bebouwing)  
+1.2 Stedebouwkundige ontwikkeling  
+2.2 Aard van de bebouwing  
+2.3 Bebouwingskwaliteit  
+2.4 Eigendommen en grondgebruik  
+[3. Natuur en landschap](3.natuur)  
+3.1 Landschappelijke ontwikkeling  
+3.2 Bodem en water  
+3.3 Vegetatie  
+3.4 Fauna  
+3.5 Ecologische kwaliteit  
+[4. Verkeer](verkeer)  
+[Samenvatting en conclusie](conclusie)  
+[Bijlagen en bronnen](bijlagen)  
+Bijlage 1: Procedure van aanwijzing tot beschermd stads- of dorpsgezicht  
+Bijlage 2: Samenvattingen van gesprekken met bewoners van Riel  
+Gebruikte bronnen  
 
 ### Verantwoording
 
@@ -46,3 +47,5 @@ De werkgroep Riel was als volgt samengesteld:
 Tijdelijk hebben de heren A.Naalden en F.Vervest deelgenomen aan de werkgroep, teneinde de heer A.D.Kakebeeke tijdens diens ziekteperiode te vervangen.  
 De fotograaf R.van Mielo verzorgde de foto’s, de heer A.van Almen het kaartmateriaal.  
 De afdeling stedebouwkundig onderzoek heeft het rapport samengesteld.
+
+[1. Inleiding](inleiding)
