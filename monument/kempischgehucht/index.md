@@ -48,4 +48,4 @@ Tijdelijk hebben de heren A.Naalden en F.Vervest deelgenomen aan de werkgroep, t
 De fotograaf R.van Mielo verzorgde de foto’s, de heer A.van Almen het kaartmateriaal.  
 De afdeling stedebouwkundig onderzoek heeft het rapport samengesteld.
 
-[1. Inleiding](inleiding)
+[1. Inleiding >>](inleiding)
