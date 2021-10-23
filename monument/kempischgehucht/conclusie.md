@@ -15,4 +15,4 @@ De flora en fauna in Riel geven het gebied geen hoge oecologische waarde. Wel is
 
 Geconcludeerd kan worden, dat de cultuurhistorische kwaliteit dermate hoog is, dat het de moeite waard is dit gehucht in haar historische samenhang te handhaven. Het is noodzakelijk, dat onderzocht wordt op welke wijze Riel behouden kan worden. Een uitvoerbaar bestemmingsplan zal er het resultaat van moeten zijn. De steun van hogere overheden, zeker ook in financieel opzicht, kan daarbij niet gemist worden.
 
-[Bijlagen >>]<bijlagen)
+[Bijlagen >>](bijlagen)
