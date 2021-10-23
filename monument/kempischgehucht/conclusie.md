@@ -2,7 +2,7 @@
 ## Samenvatting en conclusie
 Riel ligt in een cultuurhistorisch belangrijk landschap. Riel is niet alleen oud, de eerste ontginningsactiviteiten dateren van de 7e eeuw, maar het nederzettingspatroon is goed bewaard gebleven. Het uitblijven van ontwikkelingen op stedenbouwkundig gebied heeft het stedelijke moderniseringsproces in Riel vertraagd. Door onzekerheid ten aanzien van de toekomst van Riel zijn investeringen in agrarische bedrijven veelal tot een minimum beperkt gebleven.
 
-![Oostzijde Riel 11 ](oostzijde11.jpg)  
+![Oostzijde Riel 11 ](images/oostzijde11.jpg)  
 Oostzijde van Riel 11
 
 In het streekplan van Midden- en Oost-Brabant maakt Riel deel uit van een agrarisch gebied met landschappelijke en/of culturele waarde, waarin de landbouw moet kunnen blijven functioneren. Bij een bescherming van Riel moet dan ook hier niet gedacht worden aan een statisch monument, niet aan een museum, maar aan een functionerende agrarische gemeenschap. Veel agrarische elementen zijn nog redelijk ongeschonden. Een zestal (voormalige) boerderijen valt inmiddels al onder de monumentenwet. De bebouwingskwaliteit van de opstallen is over het algemeen redelijk in Riel. De bijgebouwen zijn over het algemeen slecht van kwaliteit.
