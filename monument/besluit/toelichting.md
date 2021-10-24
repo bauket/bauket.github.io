@@ -1,9 +1,8 @@
-# Toelichting op het besluit
 BESCHERMDE STADS- EN DORPSGEZICHTEN  
 INGEVOLGE ARTIKEL 20 VAN DE MONUMENTEWET  
 RIEL, gemeenten Eindhoven en Geldrop  
 
-Toelichting op het besluit tot aanwijzing van het gehucht Riel als beschermd dorpsgezicht.  
+# Toelichting op het besluit tot aanwijzing van het gehucht Riel als beschermd dorpsgezicht.  
 Het dorspgezicht omvat het op bijgevoegde kaart (Rijksdienst voor de Monumentenzorg, nummer 116) met een stippellijn omgrensde gebied.  
 
 (Publicatie van de Rijksdienst voor de Monumentenzorg.)  
