@@ -49,7 +49,7 @@ De fotograaf R.van Mielo verzorgde de foto’s, de heer A.van Almen het kaartmat
 De afdeling stedebouwkundig onderzoek heeft het rapport samengesteld.
 
 ---
-#### Inhoud Riel - een Kempisch gehucht
+#### Inhoud 'Riel - een Kempisch gehucht'
 [Verantwoording](index)  
 [1. Inleiding](1.inleiding)  
 [2. Bebouwing en grondgebruik](2.bebouwing)  
