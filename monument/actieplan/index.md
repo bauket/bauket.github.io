@@ -3,16 +3,16 @@ Doel is het ontwikkelen van een visie op Riel, het vaststellen van de daaruit vl
 
 ---
 #### Inhoudsopgave
-Probleemstelling
-Voorgeschiedenis
-Een visie op het gehucht Riel
-Het samenstel van maatregelen
-Landschappelijk inrichtingsplan
-Financiële middelen
-Inspraak
-Voorgestelde wijzigingen
-Beleidsaspecten
-Voorstellen
+1. Probleemstelling
+2. Voorgeschiedenis
+3. Een visie op het gehucht Riel
+4. Het samenstel van maatregelen  
+   Landschappelijk inrichtingsplan
+5. Financiële middelen
+6. Inspraak
+7. Voorgestelde wijzigingen
+8. Beleidsaspecten
+9. Voorstellen
 
 ## Probleemstelling
 Op 29 september 1975 heeft de gemeenteraad besloten de minister van Cultuur, Recreatie en Maatschappelijk Werk in overweging gegeven het gehucht Riel aan te wijzen als beschermd dorpsgezicht. Jaren later (1988) leidde dit tot een definitieve aanwijzing als beschermd dorpsgezicht. Als vervolg hierop is een bestemmingsplan in voorbereiding. Ook leidde dit in 1990 tot een "bestuurlijke opdracht inzake een inrichtingsschets c.q. actieplan voor het gehucht Riel, als basis voor een te zijner tijd op te stellen uitwerkingsplan", waarbij expliciet aandacht moest worden geschonken aan de volgende aspecten:
@@ -29,3 +29,15 @@ De onderhavige adviesnota is te beschouwen als een samenvattende nota ter beantw
 
 Op 19 december 1994 heeft een inspraakavond plaatsgevonden, waarbij ongeveer 30 personen uit Riel en omgeving aanwezig waren. De uit deze inspraak voortkomende reacties zijn in het onderhavige dossier verwerkt. Dit heeft tot een aantal aanpassingen in de oorspronkelijke voorstellen geleid.
 
+---
+#### Inhoudsopgave
+1. [Probleemstelling](index#probleemstelling)
+2. [Voorgeschiedenis](2.voorgeschiedenis)
+3. [Een visie op het gehucht Riel](3.visie)
+4. Het samenstel van maatregelen  
+   [Landschappelijk inrichtingsplan](4.inrichtingsplan)
+5. Financiële middelen
+6. Inspraak
+7. Voorgestelde wijzigingen
+8. Beleidsaspecten
+9. Voorstellen
