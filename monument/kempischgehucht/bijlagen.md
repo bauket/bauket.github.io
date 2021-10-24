@@ -38,3 +38,13 @@ Uit: "Stedebouw en Volshuisvesting", februari 1978
 10. Derde nota over de ruimtelijke ordening, deel 2: Verstedelingsnota, ministerie van volkshuisvesting en ruimtelijke ordening, 1976
 11. Derde nota over de ruimtelijke ordening, deel 3, Nota Landelijke Gebieden, deel 3a, Beleidsvoornemens voor ontwikkeling, inrichting en beheer ´s-Gravenhage, Staatsuitgeverij, 1977 Zitting 1976-1977, nr.14392
 12. Programma van eisen woongebied Gijzenrooi Geldrop, agglomeratie Eindhoven, afdeling ruimtelijke ordening, maart 1978
+
+---
+#### Inhoud Riel - een Kempisch gehucht
+[Verantwoording](index)  
+[1. Inleiding](1.inleiding)  
+[2. Bebouwing en grondgebruik](2.bebouwing)  
+[3. Natuur en landschap](3.natuur)  
+[4. Verkeer](verkeer)  
+[Samenvatting en conclusie](conclusie)  
+[Bijlagen en bronnen](bijlagen)  
