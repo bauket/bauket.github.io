@@ -15,7 +15,7 @@ De boerderij is van belang voor het beschermd dorpsgezicht en dient gehandhaafd 
 ## Riel 2
 Deze boerderij dateert uit 1876. Dit is vast te stellen aan de jaarankers die tegen de zijgevel zijn aangebracht. De boerderij is enkele keren verbouwd.
 
-![Riel 2](images/riel2y.jpg)
+![Riel 2](images/riel2y.jpg)  
 *Riel 2 (Foto: Yvonne Henderson)*
 
 Ook hier is sprake van een langgeveltype. Ze heeft een zadeldak met wolfseinden, gedekt met blauwe verbeterde hollandse pannen op het woonhuis en blauwe oudhollandse pannen op stal en schuurgedeelte.
@@ -27,7 +27,7 @@ Zowel schuur als boerderij staan op de rijksmonumentenlijst. Beide dienen gehand
 De overige bebouwing op het erf past daar niet bij en dient geloopt te worden.
 
 ## Riel 3
-![Riel 3](images/riel3poely.jpg)
+![Riel 3](images/riel3poely.jpg)  
 *Riels 3 (Foto: Yvonne Henderson)*
 
 Ook dit is een langgevelboerderij met een zadeldak, gedekt met blauwe muldenpannen. 
@@ -41,7 +41,7 @@ Op deze plaats stond vroeger een oude boerderij, die verbouwd is tot schuur waar
 De schuur en bijgebouw kunnen gehandhaafd blijven en zijn met enige aanpassingen beeldondersteunend.
 
 ## Riel 5
-![Riel 5](images/riel5y.jpg)
+![Riel 5](images/riel5y.jpg)  
 *Riel 5 (Foto: Yvonne Henderson)*
 
 De boerderij is van het langgeveltype en heeft een zadeldak met blauwe pannen (tuile de nord).
@@ -54,7 +54,7 @@ Het gemetselde bakhuisje is met tuille de nord pannen gedekt en moet gehandhaafd
 *Het bakhuis bij Riel 5 (Foto: Yvonne Henderson)*
 
 ## Riel 7
-![Riel 7](images/riel7y.jpg)
+![Riel 7](images/riel7y.jpg)  
 *Riel 7 (Foto: Yvonne Henderson)*
 
 Deze boerderij is gebouwd op de fundamenten van het vroegere speelhuis (jachthuis) van Riel.
