@@ -76,5 +76,6 @@ De boerderij is voorgedragen als rijksmonument.
 Beschreven bebouwing
 * [Riel 1 - 8](riel1-8)
 * [Riel 9 - 14](riel9-14)
-* [Rielsedijk](rielsedijk)
+* [Rielsedijk 20 - 49](rielsedijk)
+
 
