@@ -27,10 +27,10 @@ Zowel schuur als boerderij staan op de rijksmonumentenlijst. Beide dienen gehand
 De overige bebouwing op het erf past daar niet bij en dient geloopt te worden.
 
 ## Riel 3
+Ook dit is een langgevelboerderij met een zadeldak, gedekt met blauwe muldenpannen. 
+
 ![Riel 3](images/riel3poely.jpg)  
 *Riels 3 (Foto: Yvonne Henderson)*
-
-Ook dit is een langgevelboerderij met een zadeldak, gedekt met blauwe muldenpannen. 
 
 De boerderij dient gehandhaafd te blijven. Om de massavorm van de boerderij te versterken zal het noodzakelijk zijn het aanbouwsel aan de achterzijde te verwijderen.
 De aanbouwen aan de achterzijde dienen evenals de vrijstaande bijgebouwen verwijderd te worden.
@@ -41,11 +41,11 @@ Op deze plaats stond vroeger een oude boerderij, die verbouwd is tot schuur waar
 De schuur en bijgebouw kunnen gehandhaafd blijven en zijn met enige aanpassingen beeldondersteunend.
 
 ## Riel 5
-![Riel 5](images/riel5y.jpg)  
-*Riel 5 (Foto: Yvonne Henderson)*
-
 De boerderij is van het langgeveltype en heeft een zadeldak met blauwe pannen (tuile de nord).
 Het woongedeelte vanaf de voordeur is in de 20er-30er jaren aangebouwd in de stijl van die periode.
+
+![Riel 5](images/riel5y.jpg)  
+*Riel 5 (Foto: Yvonne Henderson)*
 
 Het saaie ritme van de voorgevel zou doorbroken moeten worden, waardoor de architectonische vormgeving sterker wordt enz.
 Het gemetselde bakhuisje is met tuille de nord pannen gedekt en moet gehandhaafd blijven. Ook de boerderij dient gehandhaafd te blijven. Om de functie van het erf te versterken zal het noodzakelijk zijn de overige bebouwing te verwijderen en eventueel te vervangen door beter aan de situatie aangepaste bebouwing.
@@ -54,13 +54,13 @@ Het gemetselde bakhuisje is met tuille de nord pannen gedekt en moet gehandhaafd
 *Het bakhuis bij Riel 5 (Foto: Yvonne Henderson)*
 
 ## Riel 7
-![Riel 7](images/riel7y.jpg)  
-*Riel 7 (Foto: Yvonne Henderson)*
-
 Deze boerderij is gebouwd op de fundamenten van het vroegere speelhuis (jachthuis) van Riel.
 De moderne boerderij die na de brand van 1945 werd gebouwd is niet storend in de omgeving van de andere boerderijen in Riel.
 Historisch erg belangrijk is het deel van de gracht dat nog overgebleven is. Ook de heg langs de gracht is een onmiskenbaar element in het gehucht Riel.
 De boerderij is van het langgeveltype en heeft een zadeldak met wolfseinden, gedekt met rode mulderpannen. De ramen met segmentbogen er boven getuigen van de herbouw van de boerderij na 1945.
+
+![Riel 7](images/riel7y.jpg)  
+*Riel 7 (Foto: Yvonne Henderson)*
 
 Om de hoofdvorm van de boerderij te versterken is het zeer gewenst de achter aanbouw te verwijderen.
 De boerderij dient gehandhaafd te blijven, evenals het bijgebouw.
