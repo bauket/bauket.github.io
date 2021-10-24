@@ -7,7 +7,6 @@ Doel is het ontwikkelen van een visie op Riel, het vaststellen van de daaruit vl
 2. Voorgeschiedenis
 3. Een visie op het gehucht Riel
 4. Het samenstel van maatregelen  
-   Landschappelijk inrichtingsplan
 5. Financiële middelen
 6. Inspraak
 7. Voorgestelde wijzigingen
@@ -35,7 +34,6 @@ Op 19 december 1994 heeft een inspraakavond plaatsgevonden, waarbij ongeveer 30 
 2. [Voorgeschiedenis](2.voorgeschiedenis)
 3. [Een visie op het gehucht Riel](3.visie)
 4. Het samenstel van maatregelen  
-   [Landschappelijk inrichtingsplan](4.inrichtingsplan)
 5. Financiële middelen
 6. Inspraak
 7. Voorgestelde wijzigingen
