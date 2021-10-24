@@ -15,7 +15,7 @@ De boerderij is van belang voor het beschermd dorpsgezicht en dient gehandhaafd 
 ## Riel 2
 Deze boerderij dateert uit 1876. Dit is vast te stellen aan de jaarankers die tegen de zijgevel zijn aangebracht. De boerderij is enkele keren verbouwd.
 
-![Riel 2](images/riel2.jpg)
+![Riel 2](images/riel2y.jpg)
 *Riel 2 (Foto: Yvonne Henderson)*
 
 Ook hier is sprake van een langgeveltype. Ze heeft een zadeldak met wolfseinden, gedekt met blauwe verbeterde hollandse pannen op het woonhuis en blauwe oudhollandse pannen op stal en schuurgedeelte.
@@ -27,7 +27,7 @@ Zowel schuur als boerderij staan op de rijksmonumentenlijst. Beide dienen gehand
 De overige bebouwing op het erf past daar niet bij en dient geloopt te worden.
 
 ## Riel 3
-![Riel 3](images/riel3.jpg)
+![Riel 3](images/riel3poely.jpg)
 *Riels 3 (Foto: Yvonne Henderson)*
 
 Ook dit is een langgevelboerderij met een zadeldak, gedekt met blauwe muldenpannen. 
@@ -41,7 +41,7 @@ Op deze plaats stond vroeger een oude boerderij, die verbouwd is tot schuur waar
 De schuur en bijgebouw kunnen gehandhaafd blijven en zijn met enige aanpassingen beeldondersteunend.
 
 ## Riel 5
-![Riel 5](images/riel5.jpg)
+![Riel 5](images/riel5y.jpg)
 *Riel 5 (Foto: Yvonne Henderson)*
 
 De boerderij is van het langgeveltype en heeft een zadeldak met blauwe pannen (tuile de nord).
@@ -50,11 +50,11 @@ Het woongedeelte vanaf de voordeur is in de 20er-30er jaren aangebouwd in de sti
 Het saaie ritme van de voorgevel zou doorbroken moeten worden, waardoor de architectonische vormgeving sterker wordt enz.
 Het gemetselde bakhuisje is met tuille de nord pannen gedekt en moet gehandhaafd blijven. Ook de boerderij dient gehandhaafd te blijven. Om de functie van het erf te versterken zal het noodzakelijk zijn de overige bebouwing te verwijderen en eventueel te vervangen door beter aan de situatie aangepaste bebouwing.
 
-![Riel 5 bakhuis](images/riel5bakhuis.jpg)
+![Riel 5 bakhuis](images/riel5bakhuisy.jpg)
 *Het bakhuis bij Riel 5 (Foto: Yvonne Henderson)*
 
 ## Riel 7
-![Riel 7](images/riel7.jpg)
+![Riel 7](images/riel7y.jpg)
 *Riel 7 (Foto: Yvonne Henderson)*
 
 Deze boerderij is gebouwd op de fundamenten van het vroegere speelhuis (jachthuis) van Riel.
@@ -74,6 +74,7 @@ De boerderij is voorgedragen als rijksmonument.
 
 ---
 Beschreven bebouwing
-* [Riel 1 - 8]{riel1-8)
-* [Riel 9 - 14]{riel9-14)
-* [Rielsedijk]{rielsedijk)
+* [Riel 1 - 8](riel1-8)
+* [Riel 9 - 14](riel9-14)
+* [Rielsedijk](rielsedijk)
+
