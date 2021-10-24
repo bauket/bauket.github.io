@@ -1,5 +1,4 @@
 # Besluit tot aanwijzing
-<blockquote>
   
 Ministerie van Welzijn, Volksgezondheid en Cultuur
 
@@ -42,5 +41,3 @@ Drs. H. D’Ancona
 De minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer
 
 J.G.M. Alders
-
-</blockquote>
