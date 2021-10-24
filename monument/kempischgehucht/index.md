@@ -50,7 +50,7 @@ De afdeling stedebouwkundig onderzoek heeft het rapport samengesteld.
 
 ---
 #### Inhoud 'Riel - een Kempisch gehucht'
-[Verantwoording](index)  
+Verantwoording  
 [1. Inleiding](1.inleiding)  
 [2. Bebouwing en grondgebruik](2.bebouwing)  
 [3. Natuur en landschap](3.natuur)  
