@@ -50,7 +50,7 @@ Het woongedeelte vanaf de voordeur is in de 20er-30er jaren aangebouwd in de sti
 Het saaie ritme van de voorgevel zou doorbroken moeten worden, waardoor de architectonische vormgeving sterker wordt enz.
 Het gemetselde bakhuisje is met tuille de nord pannen gedekt en moet gehandhaafd blijven. Ook de boerderij dient gehandhaafd te blijven. Om de functie van het erf te versterken zal het noodzakelijk zijn de overige bebouwing te verwijderen en eventueel te vervangen door beter aan de situatie aangepaste bebouwing.
 
-![Riel 5 bakhuis](images/riel5bakhuisy.jpg)
+![Riel 5 bakhuis](images/riel5bakhuisy.jpg)  
 *Het bakhuis bij Riel 5 (Foto: Yvonne Henderson)*
 
 ## Riel 7
