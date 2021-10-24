@@ -40,11 +40,11 @@ Uit: "Stedebouw en Volshuisvesting", februari 1978
 12. Programma van eisen woongebied Gijzenrooi Geldrop, agglomeratie Eindhoven, afdeling ruimtelijke ordening, maart 1978
 
 ---
-#### Inhoud Riel - een Kempisch gehucht
+#### Inhoud 'Riel - een Kempisch gehucht'
 [Verantwoording](index)  
 [1. Inleiding](1.inleiding)  
 [2. Bebouwing en grondgebruik](2.bebouwing)  
 [3. Natuur en landschap](3.natuur)  
 [4. Verkeer](verkeer)  
 [Samenvatting en conclusie](conclusie)  
-[Bijlagen en bronnen](bijlagen)  
+Bijlagen en bronnen  
