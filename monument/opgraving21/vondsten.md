@@ -85,7 +85,9 @@ Tot de schaarse vondsten van metaal behoren een tweetal ijzeren herdersschepjes;
 
 Ten slotte werd ook een tiental stuks slachtafval gevonden van rund en varken. [^voetnoot12]  Deze hoeveelheid is echter te gering om uitspraken te kunnen doen over de samenstelling van de veestapel.
 
+
 ---
+#### Inhoud
 - [Inleiding](inleiding)
 - [Het gehucht Riel](gehuchtriel)
 - [Opgravingsresultaten](opgraving)
@@ -93,7 +95,8 @@ Ten slotte werd ook een tiental stuks slachtafval gevonden van rund en varken. [
 - [Vondsten](vondsten)
 - [Botanisch onderzoek](botanisch)
 - [Conclusies](conclusies)
-- [Literatuur](literatuur)
+- [Literatuur](conclusies#literatuur)
+
 
 ---
 #### Voetnoten
