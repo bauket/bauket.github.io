@@ -13,4 +13,4 @@ In het navolgende worden, na een korte historische inleiding over Riel, de opgra
 - [Conclusies](conclusies)
 - [Literatuur](literatuur)
 
-*(Tekst: N. Arts en H. Luijten)*
+##### *(Tekst: N. Arts en H. Luijten)*
