@@ -96,8 +96,13 @@ Ten slotte werd ook een tiental stuks slachtafval gevonden van rund en varken. [
 - [Literatuur](literatuur)
 
 ---
+#### Voetnoten
 [^voetnoot8]: Kohnemann 1982, 200.
+
 [^voetnoot9]: Zie o.a. Mars 1991.
+
 [^voetnoot10]: Reineking-Von Bock 1971, 340-342.
+
 [^voetnoot11]: Henkes en Stam 1990, 240 nr. 2.16.
+
 [^voetnoot12]: Determinaties door Theo de Jong, assistent-archeoloog te Eindhoven.
