@@ -7,10 +7,10 @@ In het navolgende worden, na een korte historische inleiding over Riel, de opgra
 - [Inleiding](inleiding)
 - [Het gehucht Riel](gehuchtriel)
 - [Opgravingsresultaten](opgraving)
-- [De bakstenen boerderij](boerderij)
+- [De bakstenen boerderij](opgraving#boerderij)
 - [Vondsten](vondsten)
 - [Botanisch onderzoek](botanisch)
 - [Conclusies](conclusies)
-- [Literatuur](literatuur)
+- [Literatuur](conclusies#literatuur)
 
 ##### *(Tekst: N. Arts en H. Luijten)*
