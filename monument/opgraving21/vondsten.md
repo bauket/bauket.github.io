@@ -7,7 +7,7 @@
 Datering ca. 1500. Schaal 1:4  
 (tekening: Ben van den Broek).*
 
-De oudste vondsten bestaan uit scherven van laatmiddeleeuwse grijsbakkende keramiek. Deze komen uit de beide middeleeuwse paalsporen; ook in de noordelijke achttiende-eeuwse greppel zijn er enkele gevonden. Een andere laatmiddeleeuwse vondst, daterend van omstreeks 1500, is een fragmentarisch gevonden kan van steengoed (afb. 3). Deze is afkomstig uit de oudste plaggenput. Vanwege het ontbreken van sporen uit die tijd, en één wandscherf een vreemde eend in de bijt. Dit betreft een wandfragment van een drinkkan van blauw en grijsgeglazuurd steengoed uit Raeren. Deze heeft een applique voorstellende enkele soldaten, en dient in 1598 te worden gedateerd. *)Voetnoot: Kohnemann 1982, 200.
+De oudste vondsten bestaan uit scherven van laatmiddeleeuwse grijsbakkende keramiek. Deze komen uit de beide middeleeuwse paalsporen; ook in de noordelijke achttiende-eeuwse greppel zijn er enkele gevonden. Een andere laatmiddeleeuwse vondst, daterend van omstreeks 1500, is een fragmentarisch gevonden kan van steengoed (afb. 3). Deze is afkomstig uit de oudste plaggenput. Vanwege het ontbreken van sporen uit die tijd, en één wandscherf een vreemde eend in de bijt. Dit betreft een wandfragment van een drinkkan van blauw en grijsgeglazuurd steengoed uit Raeren. Deze heeft een applique voorstellende enkele soldaten, en dient in 1598 te worden gedateerd. [^voetnoot8] 
 
 Het overgrote deel van de vondsten dateert uit de periode ca. 1700-1775. Het merendeel daarvan komt uit de noordelijke greppel (afb. 2:5). In totaal werden hieruit 748 vondsten verzameld, die hoofdzakelijk aan weerszijden van de brug werden gevonden. Hiertoe behoren 655 scherven van keramiek, die afkomstig zijn van tenminste 47 voorwerpen (tabel 1).
 
@@ -45,7 +45,7 @@ Datering 1700-1775. Schaal 1:4
 Datering 1700-1775. Schaal 1:4  
 (tekening: Ben van den Broek).*
 
-Driekwart van het minimum aantal keramische voorwerpen heeft een roodbaksel, waarvan de helft bestaat uit ongeoorde schotels met slibversiering (afb. 4-7). Ook bevinden er zich eetkommetjes en kookpotten bij, waarvan er enkele tot complete vormen zijn te reconstrueren (afb. 7). Deze voorwerpen zijn kenmerkende produkten van de Nederrijnse aardewerktraditie; ze zijn afkomstig van pottenbakkerscentra tussen Rijn en Maas. *)Voetnoot: Zie o.a. Mars 1991.
+Driekwart van het minimum aantal keramische voorwerpen heeft een roodbaksel, waarvan de helft bestaat uit ongeoorde schotels met slibversiering (afb. 4-7). Ook bevinden er zich eetkommetjes en kookpotten bij, waarvan er enkele tot complete vormen zijn te reconstrueren (afb. 7). Deze voorwerpen zijn kenmerkende produkten van de Nederrijnse aardewerktraditie; ze zijn afkomstig van pottenbakkerscentra tussen Rijn en Maas. [^voetnoot9]
 
 
 ![Afbeelding 7](imgaes/afb7.jpg)  
@@ -54,7 +54,7 @@ nrs. 1 en 5: schotels met gele en groene slipversiering, nrs. 2 en 3: eetkommetj
 Datering 1700-1775. Schaal 1:4  
 (tekening: Ben van den Broek).*
 
-Onder de uit de noordelijke greppel afkomstige keramiek bevind zich ook een fragment van een kan van steengoed, afkomstig uit het Westerwald, met een versiering bestaande uit ingekraste ranken met aan het uiteinde bloemen. Deze kan dient gedateerd te worden aan het einde van de zeventiende eeuw. *)Voetnoot: Reineking-Von Bock 1971, 340-342.
+Onder de uit de noordelijke greppel afkomstige keramiek bevind zich ook een fragment van een kan van steengoed, afkomstig uit het Westerwald, met een versiering bestaande uit ingekraste ranken met aan het uiteinde bloemen. Deze kan dient gedateerd te worden aan het einde van de zeventiende eeuw. [^voetnoot10]
 
 
 ![Afbeelding 8](imgaes/afb8.jpg)  
@@ -68,7 +68,7 @@ Nrs. 1 en 3: Delftse theekommetjes, nr. 2: (witte, paarse en blauwe glazuur), nr
 Datering 1700-1750 (nrs. 1, 2 en 4) en 1778 (nr. 3). Schaal 1:4 (nrs. 1, 2 en 4) en 1:2 (nr. 3)  
 (tekening: Ben van den Broek).*
 
-Andere in Riel voorkomende aardewerk­soorten betreffen twee theekom­metjes en een bordje van Delfts aardewerk, en de bodem van een bord van majolica (afb. 8). Eveneens uit de noordelijke greppel afkomstig zijn de fragmenten van tenminste vijf verschillende wijnflessen en van een kelkglas (afb. 9). Opmerkelijk daarbij is een glaszegel met de naam Vel(t) en het jaartal 1718. Een glaszegel met dezelfde naam, maar met het jaartal 1728 is bekend uit Delft. *)Voetnoot: Henkes en Stam 1990, 240 nr. 2.16.
+Andere in Riel voorkomende aardewerk­soorten betreffen twee theekom­metjes en een bordje van Delfts aardewerk, en de bodem van een bord van majolica (afb. 8). Eveneens uit de noordelijke greppel afkomstig zijn de fragmenten van tenminste vijf verschillende wijnflessen en van een kelkglas (afb. 9). Opmerkelijk daarbij is een glaszegel met de naam Vel(t) en het jaartal 1718. Een glaszegel met dezelfde naam, maar met het jaartal 1728 is bekend uit Delft. [^voetnoot11]
 
 
 ![Afbeelding 10](imgaes/afb10.jpg)
@@ -96,4 +96,8 @@ Ten slotte werd ook een tiental stuks slachtafval gevonden van rund en varken. [
 - [Literatuur](literatuur)
 
 ---
+[^voetnoot8]: Kohnemann 1982, 200.
+[^voetnoot9]: Zie o.a. Mars 1991.
+[^voetnoot10]: Reineking-Von Bock 1971, 340-342.
+[^voetnoot11]: Henkes en Stam 1990, 240 nr. 2.16.
 [^voetnoot12]: Determinaties door Theo de Jong, assistent-archeoloog te Eindhoven.
