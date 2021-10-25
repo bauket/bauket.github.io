@@ -4,6 +4,8 @@ Riel is een van de weinige oude agrarische nederzettingen in Brabant, die haar o
 
 In 1987 is het gehucht Riel door de Rijksdienst voor de Monumentenzorg aangewezen als 'beschermd dorpsgezicht'. Ook zijn een [aantal van de boerderijen](monumenten) aangewezen als Rijksmonument.
 
+Min of meer chronolgisch wordt hieronder geschetst hoe dit proces is verlopen.
+
 ## Eerste initiatief
 De minister van C.R.M. heeft de gemeente Eindhoven in 1975 (kenmerk MMA/MO 180.666) ter overweging gegeven het gehucht Riel aan te wijzen als beschermd dorpsgezicht. De gemeenteraad heeft met het voorstel ingestemd.
 
@@ -13,7 +15,7 @@ In 1976 is de "werkgroep Riel" ingesteld. De werkgroep had tot taak gegevens te 
 ## 1e Bestemmingsplan
 In 1983 is gestart met het opstellen van een conserverend bestemmingsplan voor Riel. Dit bestemmingsplan is bij de raad van State gesneuveld.
 
-## Adviesnota Inrichtingsschets c.q. actieplan Riel
+## Inrichtingsschets c.q. actieplan Riel
 In 1990 is de opdracht gegeven een visie te ontwikkelen op het gehucht Riel in relatie tot Eindhoven en welke maatregelen hiervoor getroffen moeten worden. In 1995 leidde dit tot de adviesnota ["Inrichtingsschets c.q. actieplan Riel"](actieplan).
 
 ## Besluit tot aanwijzing
