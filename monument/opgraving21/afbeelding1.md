@@ -1,4 +1,4 @@
-#### Het bodemarchief van een langgevelboerderij te Riel
+##### Het bodemarchief van een langgevelboerderij te Riel
 
 ## Huidige topografie van het gehucht Riel
 
