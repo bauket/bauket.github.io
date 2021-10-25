@@ -9,7 +9,7 @@ De oudste sporen dateren uit de late middeleeuwen. Het gaat hierbij om twee paal
 
 Een derde grondspoor, dat uit het einde van de middeleeuwen dateert, is een op de velg van een karrewiel gefundeerde plaggenput (afb. 2 nr. 3.). De beide paalsporen en de waterput tonen aan, dat de bebouwing van deze boerderijplaats in elk geval teruggaat tot omstreeks 1500. De aard en omvang is vanwege het ontbreken van meer aanwijzingen evenwel onbekend.
 
-![Bodem archief Rielsedijk 21](images/afb2.jpg)
+![Bodem archief Rielsedijk 21](images/afb2.gif)
 *Afbeelding 2 Het bodemarchief van Rielsedijk nr.21 met de funderingen van de in 1991 afgebrande boerderij [Vergroting met legenda](afbeelding2).  
 (tekening: Nico Arts)*
 
@@ -27,7 +27,7 @@ Tijdens het onderzoek van de fundamenten van de boerderij is komen vast te staan
 De oudste bakstenen bouwfase bestaat uit een blokvormig gebouw met degelijk uitgevoerde fundamenten (afb. 2: A). Dit zal vanouds het woongedeelte hebben gevormd; in het zuidoosten bevindt zich de voor langgevelboerderijen kenmerkende kelder onder de opkamer. Blijkens de oudtse kadastrale gegevens moet zich ten westen van dit woongedeelte het stalgedeelte hebben bevonden. Vermoedelijk heeft dit een gebintconstructie op bakstenen poeren gehad, maar er is geen enkel spoor van een poer teruggevonden. In een latere fase zijn de (oorspronkelijk houten of lemen?) wanden van het stalgedeelte vervangen door ondiep in de grond gefundeerde bakstenen muren (afb. 2: B). Dit hele stalgedeelte heeft een ongeveer één meter diepe potstal gehad. Een twintig-eeuwse uitbreiding van de boerderij ligt tegen het zuiden van het woongedeelte, bestaand eruit een kleine potstal, een paardestal en een schuur (afb. 2: resp. C, D, E). Eveneens uit de twintigste eeuw dateert een bakstenen waterput, die gedeeltelijk door de laatmiddeleeuwse put is aangelegd (afb. 2: F). Waterputten uit de oudste bouwfase en uit de negentiende eeuw zijn niet gevonden, deze bevinden zich ongetwijfeld buiten het archeologisch onderzochte terreindeel. Uit het begin van deze eeuw, ten slotte, dateert een diep in de bodem ingegraven betonnen beerkelder (afb. 2: G). Deze werd overigens pas ontdekt, toen de voor het archeologisch onderzoek ingehuurde graafmachine er in viel.
 
 ---
-#### Inhoud
+### Inhoud
 - [Inleiding](inleiding)
 - [Het gehucht Riel](gehuchtriel)
 - [Opgravingsresultaten](opgraving)
