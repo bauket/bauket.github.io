@@ -14,4 +14,3 @@ Afbeelding 1: Huidige topografie van het gehucht Riel (tekening: Ben van den Bro
 - Getallen zijn de huidige huisnummers; Rielsedijk 21 is de opgegraven boerderijplaats.  
 - Zwarte lijnen; water (beek en gracht) in 1832.  
 - Schaal 1:4000
-- 
