@@ -9,8 +9,9 @@ De oudste sporen dateren uit de late middeleeuwen. Het gaat hierbij om twee paal
 
 Een derde grondspoor, dat uit het einde van de middeleeuwen dateert, is een op de velg van een karrewiel gefundeerde plaggenput (afb. 2 nr. 3.). De beide paalsporen en de waterput tonen aan, dat de bebouwing van deze boerderijplaats in elk geval teruggaat tot omstreeks 1500. De aard en omvang is vanwege het ontbreken van meer aanwijzingen evenwel onbekend.
 
-![Bodem archief Rielsedijk 21](images/afb2.gif)
-*Afbeelding 2 Het bodemarchief van Rielsedijk nr.21 met de funderingen van de in 1991 afgebrande boerderij [Vergroting met legenda](afbeelding2).  
+![Bodem archief Rielsedijk 21](images/afb2.gif)  
+*Afbeelding 2: Het bodemarchief van Rielsedijk nr.21 met de funderingen van de in 1991 afgebrande boerderij.  
+([Vergrote afbebeelding met legenda](afbeelding2))
 (tekening: Nico Arts)*
 
 Het terrein lijkt gedurende de zestiende en zeventiende eeuw niet bewoond te zijn geweest, want sporen uit die tijd ontbreken geheel. Vanaf het begin van de eeuw daarna is dat echter wel het geval. Opvallende overblijfselen uit de periode 1700-1775 zijn een tweetal gebogen greppels, waarvan in het bovenste vlak van de meest noordelijke de verkleuringen werden ingetekend van planken van een houten brug (afb. 2 nr. 6a). Mogelijk vormen deze greppels gedeelten van de erfafscheiding van een huisplaats, maar van dat huis zelf zijn geen sporen gevonden.
