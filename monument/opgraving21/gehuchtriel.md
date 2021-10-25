@@ -3,8 +3,9 @@
 ## Het gehucht Riel
 Het gehucht Riel, dat ten zuidoosten van het middeleeuwse stadsgebied van Eindhoven ligt, vormde met Gijzenrooi, Genoenhuis, Hoog Geldrop, Hout en Hulst de vroegere gemeente Zesgehuchten. Het grootste gedeelte ligt thans in de gemeente Geldrop, het overige deel, waaronder Riel, behoort sinds 1972 tot de gemeente Eindhoven.
 
-![Topografie Riel](images/afb1.jpg)  
-*Afbeelding 1 Huidige topografie van het gehucht Riel met vroegere en bestaande bebouwing ([Vergroting](afbeelding1)).  
+![Topografie Riel](images/afb1.gif)  
+*Afbeelding 1: Huidige topografie van het gehucht Riel met vroegere en bestaande bebouwing  
+([Vergrote afbeelding met legenda](afbeelding1))
 (tekening: Ben van den Broek)*
 
 De naam Riel wordt afgeleid van Rielle of Riello. 'Rey(t)' zal de betekenis hebben van riet, 'lo' betekent een open plek in het bos. De betekenis van het toponiem van Riel is letterlijk: een open plek in een bos langs een laaggelegen terrein. [^voetnoot2] Deze naamsverklaring komt overeen met de landschappelijke ligging. Het gehucht Riel ligt gedeeltelijk op een kleine dekzandrug, plaatselijk de Donck genaamd, en voor het overige tussen die rug en het beekdal van de Lakerloop, een zijtak van de Dommel, die op de Rielse dekzandrug ontspringt (afb. 1).
@@ -14,7 +15,7 @@ De oudst bekende schriftelijke vermelding van Riel dateert uit 1296; is dan spra
 De kern van Riel zou gedurende de zeventiende en achttiende eeuw geleidelijk zijn verschoven van de omgeving van de beide Bossche pachthoeven naar de in die tijd aangelegde Rielsedijk (afb. 1). In 1832 bevonden zich te Riel 24 huizen met gezamenlijk 150 inwoners. Door de branden in 1877, 1924 en 1945 is een groot deel van de negentiende-eeuwse bebouwing verwoest, maar deze is meestal op dezelfde plaats weer herbouwd. Sinds 1987 heeft het gehucht de status van een via de monumentenwet beschermd dorpsgezicht.
 
 ---
-#### Inhoud
+### Inhoud
 - [Inleiding](inleiding)
 - [Het gehucht Riel](gehuchtriel)
 - [Opgravingsresultaten](opgraving)
@@ -26,7 +27,7 @@ De kern van Riel zou gedurende de zeventiende en achttiende eeuw geleidelijk zij
 
 
 ---
-#### Voetnoten
+### Voetnoten
 [^voetnoot2]: Coenen 1987, 2  
 
 [^voetnoot3]: Coenen 1987, 18
