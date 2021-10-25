@@ -69,7 +69,9 @@ De twee onderzochte plaggenmonsters uit de wand van de laatmiddeleeuswse waterpu
 				1967. Hier wordt een korte samenvatting gegeven van het botanisch onderzoek; de 
 				uitgebreide versie wordt bewaard bij de opgravingsdocumentatie van Riel, en is 
 				voor geïnteresseerden op verzoek verkrijgbaar.
+				
 [^voetnoot14]: Korenbloem, klaproos, korensla, zwaluwtong, knopherik, schapezuring, eenjarige 
 				hardbloem, gewonen spurrie en akkerviooltje. Gewonen spurrie kan eventueel ook 
 				als veevoer zijn verbouwd.
+				
 [^voetnoot15]: Akkers waarin onkruid gewied wordt.
