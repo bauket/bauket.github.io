@@ -49,6 +49,7 @@ De twee onderzochte plaggenmonsters uit de wand van de laatmiddeleeuswse waterpu
 
 
 ---
+#### Inhoud
 - [Inleiding](inleiding)
 - [Het gehucht Riel](gehuchtriel)
 - [Opgravingsresultaten](opgraving)
@@ -59,6 +60,7 @@ De twee onderzochte plaggenmonsters uit de wand van de laatmiddeleeuswse waterpu
 - [Literatuur](literatuur)
 
 ---
+#### Voetnoten
 [^voetnoot13]: Hiertoe werd van elk 
 				spoor een monster met een volume van 2 liter gezeefd door maaswijdten van 0,25 
 				en 1 mm: de residuen zijn onderzocht op botanisch materiaal. Alleen van de 
