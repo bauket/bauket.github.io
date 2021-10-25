@@ -22,7 +22,7 @@ In 1990 is de opdracht gegeven een visie te ontwikkelen op het gehucht Riel in r
 In 1991 is door de ministers van WVC en van VROM het [besluit tot aanwijzing](besluit) als 'beschemd dorpsgezicht' genomen.
 
 ## Archeologisch bodemonderzoek Riel 21
-In 1992 werden plannen goedgekeurd voor nieuwbouw op de plaats van de in 1991 afgebrande boerderij, waarbij het geheel zou worden onderkelderd. Omdat daarbij tevens het bodemarchief zou worden verwoest, kon in overleg met de eigenaar vóór aanvang van de nieuwbouw een opgraving worden uitgevoerd. Deze [opgraving](opgraving) vond plaats in de periode 14 december 1992 - 5 februari 1993.
+In 1992 werden plannen goedgekeurd voor nieuwbouw op de plaats van de in 1991 afgebrande boerderij, waarbij het geheel zou worden onderkelderd. Omdat daarbij tevens het bodemarchief zou worden verwoest, kon in overleg met de eigenaar vóór aanvang van de nieuwbouw een opgraving worden uitgevoerd. Deze [opgraving](opgraving21) vond plaats in de periode 14 december 1992 - 5 februari 1993.
 
 ## Bestemmingsplan 1998
 In het bestemmingsplan "Beschermd Dorpsgezicht Riel 1998" wordt het 'beschermd dorpsgezicht' vastgelegd. Hierin is in de bijlage een [beschrijving van de bebouwing](bestplan1998) opgenomen. Het bestemmingsplan is helaas (mei 2003) nog niet volledig rond.
