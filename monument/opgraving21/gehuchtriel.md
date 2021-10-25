@@ -13,19 +13,27 @@ De oudst bekende schriftelijke vermelding van Riel dateert uit 1296; is dan spra
 
 De kern van Riel zou gedurende de zeventiende en achttiende eeuw geleidelijk zijn verschoven van de omgeving van de beide Bossche pachthoeven naar de in die tijd aangelegde Rielsedijk (afb. 1). In 1832 bevonden zich te Riel 24 huizen met gezamenlijk 150 inwoners. Door de branden in 1877, 1924 en 1945 is een groot deel van de negentiende-eeuwse bebouwing verwoest, maar deze is meestal op dezelfde plaats weer herbouwd. Sinds 1987 heeft het gehucht de status van een via de monumentenwet beschermd dorpsgezicht.
 
-### Voetnoten
-[^voetnoot2]: Coenen 1987, 2  
-[^voetnoot3]: Coenen 1987, 18
-[^voetnoot4]: Camps 1979, 756-757,; Coenen 1987, 35
-[^voetnoot5]: Rijksdienst voor monumentenzorg, Zeist: Riel. Gemeenten Eindhoven en Geldrop. Toelichting op het besluit tot aanwijzing van het gehucht Riel als beschermd dorpsgezicht (1987).
-[^voetnoot6]: Voor de lokatie van de kapel op de plaats van het Speelhuis zie: Kuysten 1949
-
 ---
+#### Inhoud
 - [Inleiding](inleiding)
-- Het gehucht Riel
+- [Het gehucht Riel](gehuchtriel)
 - [Opgravingsresultaten](opgraving)
-- [De bakstenen boerderij](boerderij)
+- [De bakstenen boerderij](opgraving#boerderij)
 - [Vondsten](vondsten)
 - [Botanisch onderzoek](botanisch)
 - [Conclusies](conclusies)
-- [Literatuur](literatuur)
+- [Literatuur](conclusies#literatuur)
+
+
+---
+#### Voetnoten
+[^voetnoot2]: Coenen 1987, 2  
+
+[^voetnoot3]: Coenen 1987, 18
+
+[^voetnoot4]: Camps 1979, 756-757,; Coenen 1987, 35
+
+[^voetnoot5]: Rijksdienst voor monumentenzorg, Zeist: Riel. Gemeenten Eindhoven en Geldrop. Toelichting op het besluit tot aanwijzing van het gehucht Riel als beschermd dorpsgezicht (1987).
+
+[^voetnoot6]: Voor de lokatie van de kapel op de plaats van het Speelhuis zie: Kuysten 1949
+
