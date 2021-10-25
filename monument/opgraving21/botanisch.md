@@ -57,7 +57,7 @@ De twee onderzochte plaggenmonsters uit de wand van de laatmiddeleeuswse waterpu
 - [Vondsten](vondsten)
 - [Botanisch onderzoek](botanisch)
 - [Conclusies](conclusies)
-- [Literatuur](literatuur)
+- [Literatuur](conclusies#literatuur)
 
 ---
 #### Voetnoten
