@@ -3,9 +3,9 @@
 ## Het gehucht Riel
 Het gehucht Riel, dat ten zuidoosten van het middeleeuwse stadsgebied van Eindhoven ligt, vormde met Gijzenrooi, Genoenhuis, Hoog Geldrop, Hout en Hulst de vroegere gemeente Zesgehuchten. Het grootste gedeelte ligt thans in de gemeente Geldrop, het overige deel, waaronder Riel, behoort sinds 1972 tot de gemeente Eindhoven.
 
-![Topografie Riel](images/afb1.gif)  
+[![Topografie Riel](images/afb1.gif)  ](afbeelding1.gif)
 *Afbeelding 1: Huidige topografie van het gehucht Riel met vroegere en bestaande bebouwing  
-([Vergrote afbeelding met legenda](afbeelding1))
+([Klik voor grotere afbeelding met legenda](afbeelding1))
 (tekening: Ben van den Broek)*
 
 De naam Riel wordt afgeleid van Rielle of Riello. 'Rey(t)' zal de betekenis hebben van riet, 'lo' betekent een open plek in het bos. De betekenis van het toponiem van Riel is letterlijk: een open plek in een bos langs een laaggelegen terrein. [^voetnoot2] Deze naamsverklaring komt overeen met de landschappelijke ligging. Het gehucht Riel ligt gedeeltelijk op een kleine dekzandrug, plaatselijk de Donck genaamd, en voor het overige tussen die rug en het beekdal van de Lakerloop, een zijtak van de Dommel, die op de Rielse dekzandrug ontspringt (afb. 1).
