@@ -12,23 +12,18 @@ vraagt de moderne tijd aanpassingen waar dit mogelijk is.
 ## Historie
 Over het verleden van Riel en de omgeving is volop geschreven
 
-- De geschiedenis van het gehucht Riel, Jean Coenen, 1987
-- [Historie van het gehucht Riel](historie-van-het-gehucht-riel), Nico Arts
-- [Gijzenrooi, verleden en heden](gijzenrooi-verleden-en-heden)
-- [De geschiedenis van Papenvoort](de-geschiedenis-van-papenvoort)
+- [De geschiedenis van het gehucht Riel](historie/geschiedenis-van-het-gehucht-riel-coenen), Jean Coenen, 1987
+- [Historie van het gehucht Riel](historie/historie-van-het-gehucht-riel-arts), Nico Arts
+- [Gijzenrooi, verleden en heden](historie/gijzenrooi-verleden-en-heden-lingers), Harry Lingers
+- [De geschiedenis van Papenvoort](historie/de-geschiedenis-van-papenvoort)
 
-Door Jean Coenen is in 1987 de historie van Riel beschreven
-De geschiedenis van het gehucht Riel
-De belangrijkste gebouwen op Riel
-De wegenstructuur rondom Riel
-De landerijen rondom Riel
-De huidige historische overblijfselen
-De buurtschap de Putten
-De toekomst van de bestaande bebouwing
+### Omgeving
+De directe omgeving van Riel wordt gekenmerkt door hoge akkers, akkerwallen met kreupelhout en boomgaarden.
+Hier valt veel te wandelen en te fietsen.
+In "Gijzenrooi, houw 't groen" is een impressie verschenen van [wandelingen door de vier seizoenen](wandelingen-door-gijzenrooi), door P. v. Beek.
 
-Door Nico Arts is de historie van het gehucht Riel beschreven
-Historie van het gehucht Riel
-
-Geschiedenis van omliggende gehuchten
-Gijzenrooi, verleden en heden
-De geschiedenis van Papenvoort
+### Buren van Riel
+- [Bewonersvereniging Gijzenrooi](http://www.gijzenrooi.nl/)
+- [Bewonersvereniging Putten](http://www.bewonersverenigingputten.nl/)
+- [Bewoners Belangenvereniging Schuttersbosch](https://www.onsplatform.tv/schuttersbosch)
+- [Belangenvereniging Zesgehuchten (Geldrop)](https://www.belangenverenigingzesgehuchten.nl)
