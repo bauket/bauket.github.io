@@ -1,8 +1,8 @@
-# Beschermd dorpsgezicht Riel
-
-Riel is een van de weinige oude agrarische nederzettingen in Brabant, die haar oorspronkelijke karakter heeft behouden. De stedenbouwkundige en landbouwkundige ontwikkelingen uit deze eeuw hebben vrijwel overal grote veranderingen gebracht ten aanzien van de oorspronkelijke wegen-, percelerings- en bebouwingsstructuur, de bebouwing zelf en de aanvankelijk aanwezige landschappelijke karakteristieken. Riel vertoont de kenmerken van het voor de Brabantse zandgronden typerende akkerdorp. De voor dit dorpstype kenmerkende groepering van boerderijen rond een driehoekige pleinruimte, de plaatse, is in Riel nog herkenbaar. Ook de bebouwing is nog voor een belangrijk deel van historische waarde.
+# Monument Riel
 
 In 1987 is het gehucht Riel door de Rijksdienst voor de Monumentenzorg aangewezen als 'beschermd dorpsgezicht'. Ook zijn een [aantal van de boerderijen](monumenten) aangewezen als Rijksmonument.
+
+Riel is een van de weinige oude agrarische nederzettingen in Brabant, die haar oorspronkelijke karakter heeft behouden. De stedenbouwkundige en landbouwkundige ontwikkelingen uit deze eeuw hebben vrijwel overal grote veranderingen gebracht ten aanzien van de oorspronkelijke wegen-, percelerings- en bebouwingsstructuur, de bebouwing zelf en de aanvankelijk aanwezige landschappelijke karakteristieken. Riel vertoont de kenmerken van het voor de Brabantse zandgronden typerende akkerdorp. De voor dit dorpstype kenmerkende groepering van boerderijen rond een driehoekige pleinruimte, de plaatse, is in Riel nog herkenbaar. Ook de bebouwing is nog voor een belangrijk deel van historische waarde.
 
 Min of meer chronolgisch wordt hieronder geschetst hoe dit proces is verlopen.
 
