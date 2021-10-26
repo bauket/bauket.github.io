@@ -1,4 +1,4 @@
-# Buurt
+## Buurt
 
 Het gehucht Riel ligt in het stadsdeel Stratum in Eindhoven.
 
@@ -9,7 +9,7 @@ Deze unieke situatie stelt aan ons -zowel aan de individuele bewoner als aan de 
 Immers, waar wij aan de ene kant zorgvuldig en met respect met het verleden moeten omgaan, 
 vraagt de moderne tijd aanpassingen waar dit mogelijk is.
 
-## Historie
+### Historie
 Over het verleden van Riel en de omgeving is volop geschreven
 
 - [De geschiedenis van het gehucht Riel](historie/geschiedenis-van-het-gehucht-riel-coenen), Jean Coenen, 1987
