@@ -13,9 +13,9 @@ vraagt de moderne tijd aanpassingen waar dit mogelijk is.
 Over het verleden van Riel en de omgeving is volop geschreven
 
 - De geschiedenis van het gehucht Riel, Jean Coenen, 1987
-- Historie van het gehucht Riel, Nico Arts
-- Gijzenrooi, verleden en heden
-- De geschiedenis van Papenvoort
+- [Historie van het gehucht Riel](historie-van-het-gehucht-riel), Nico Arts
+- [Gijzenrooi, verleden en heden](gijzenrooi-verleden-en-heden)
+- [De geschiedenis van Papenvoort](de-geschiedenis-van-papenvoort)
 
 Door Jean Coenen is in 1987 de historie van Riel beschreven
 De geschiedenis van het gehucht Riel
