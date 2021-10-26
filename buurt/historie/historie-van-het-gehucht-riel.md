@@ -1,7 +1,7 @@
 ##### Geschiedenis
 
 # Historie van het gehucht Riel
-*(Tekst: N. Arts en H. Luijten)
+*(Tekst: N. Arts en H. Luijten)*
 
 Het gehucht Riel, dat ten zuidoosten van het middeleeuwse stadgebied van Eindhoven ligt, vormde met Gijzenrooi, Genoenhuis, Hoog Geldrop, Hout en Hulst de vroegere gemeente Zesgehuchten. Het grootste gedeelte ligt thans in de gemeente Geldrop, het overige deel, waaronder Riel, behoort sinds 1972 tot de gemeente Eindhoven.
 
