@@ -1,4 +1,4 @@
-## Buurt
+## De buurt Riel
 
 Het gehucht Riel ligt in het stadsdeel Stratum in Eindhoven.
 
