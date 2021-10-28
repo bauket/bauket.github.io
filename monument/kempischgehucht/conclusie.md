@@ -1,4 +1,5 @@
-# Riel - een Kempisch gehucht
+###### Riel - een Kempisch gehucht
+
 ## Samenvatting en conclusie
 Riel ligt in een cultuurhistorisch belangrijk landschap. Riel is niet alleen oud, de eerste ontginningsactiviteiten dateren van de 7e eeuw, maar het nederzettingspatroon is goed bewaard gebleven. Het uitblijven van ontwikkelingen op stedenbouwkundig gebied heeft het stedelijke moderniseringsproces in Riel vertraagd. Door onzekerheid ten aanzien van de toekomst van Riel zijn investeringen in agrarische bedrijven veelal tot een minimum beperkt gebleven.
 
