@@ -1,4 +1,5 @@
-# Riel - een Kempisch gehucht
+###### Riel - een Kempisch gehucht
+
 ## Bijlage 1 - Procedure van aanwijzen tot beschermd stads- of dorpsgezicht
 De gang van zaken bij de aanwijzing kan als volgt in het kort worden geschetst:
 
