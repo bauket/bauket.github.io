@@ -8,7 +8,7 @@ Enerzijds is het historisch karaketer goed bewaard gebleven, anderzijds leven we
 ### Visie op Riel
 Deze unieke situatie stelt aan ons -zowel aan de individuele bewoner als aan de buurtvereniging- verschillende eisen. 
 Immers, waar wij aan de ene kant zorgvuldig en met respect met het verleden moeten omgaan, vraagt de moderne tijd aanpassingen waar dit mogelijk is.
-- De bewoners hebben in 2015 hun visie vastgelegd in [Visie op Riel](visie/visie-op-riel-2015).
+- In de presentatie [Visie op Riel](visie/visie-op-riel-2015) hebben de bewoners hun visie vastgelegd.
 
 ### Historie
 Over het verleden van Riel en de omgeving is volop geschreven
