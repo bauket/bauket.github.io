@@ -17,5 +17,5 @@ Artikel 4: De vereniging stelt zich ten doel:
 
 ### Contactgegevens
 Riel, de parel van de Zesgehuchten.  
-Secretariaat: Riel 11, 5647 LB Eindhoven  
-Email: info@dorpsgezichtriel.nl
+Secretariaat: p/a Riel 11, 5647 LB Eindhoven  
+Email: <a href="mailto:info@dorpsgezichtriel.nl">info@dorpsgezichtriel.nl</a>
