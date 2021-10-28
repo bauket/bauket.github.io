@@ -1,6 +1,7 @@
 ###### Visie op Riel 2015
 
-## RIEL, PAREL VAN DE ZESGEHUCHTEN. Toekomstvisie 2015
+## RIEL, PAREL VAN DE ZESGEHUCHTEN
+## Toekomstvisie 2015
 Datum: 14 januari 2016  
 Commissie: Wilbert Gooskens, Peter van de Moosdijk en Harry Droog
 
@@ -22,7 +23,7 @@ Voor de bewoners van Riel beoogt de toekomstvisie:
 - Daarbij bevindt de beperkte bewoning zich vooral in Eindhoven (“Buurtschap Riel”) en veel van het natuurgebied in Geldrop.
 
 ![kaart](kaart-bl.jpg)  
-*Eigendommen van Brabants landschap (feb 2015)*
+*Grondgebied van Brabants landschap (feb 2015)*
 
 ### Kenmerken van het gebied.
 Riel heeft een UNIEK KARAKTER met een rijke geschiedenis.
