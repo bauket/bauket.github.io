@@ -2,21 +2,21 @@ BESCHERMDE STADS- EN DORPSGEZICHTEN
 INGEVOLGE ARTIKEL 20 VAN DE MONUMENTEWET  
 RIEL, gemeenten Eindhoven en Geldrop  
 
-# Toelichting op het besluit tot aanwijzing van het gehucht Riel als beschermd dorpsgezicht.  
+## Toelichting op het besluit tot aanwijzing van het gehucht Riel als beschermd dorpsgezicht.  
 Het dorspgezicht omvat het op bijgevoegde kaart (Rijksdienst voor de Monumentenzorg, nummer 116) met een stippellijn omgrensde gebied.  
 
 (Publicatie van de Rijksdienst voor de Monumentenzorg.)  
 Juni 1987
 
-## Inleiding
+### Inleiding
 Het gehucht Riel is gelegen in de gemeente Eindhoven, in het landelijk gebied tussen Eindhoven en Geldrop. Tot voor kort behoorde Riel tot de gemeente Geldrop en voordien maakte het samen met Gijzenrooi, Genoenhuis, Hoog-Geldrop, Hout, Hulst en de buurtschappen Papevoort en Putten deel uit van de gemeente Zesgehuchten.
 
 Riel vertoont de kenmerken van het voor de Brabantse zandgronden typerende akkerdorp. De voor dit dorpstype kenmerkende groepering van boerderijen rond een driehoekige pleinruimte, de plaatse, is in Riel nog herkenbaar. Ook de bebouwing is nog voor een belangrijk deel van historische waarde. Daarin is dan ook de aanleiding gelegen om Riel, mede in samenhang met een aantal andere nog gave plaatsedorpen in Noord-Brabant, aan te wijzen als beschermd dorpsgezicht op grond van artikel 20 van de Monumentenwet.
 
 Allereerst zal hieronder beknopt worden ingegaan op de geschiedenis van de nederzettingen op de Brabantse zandgronden, waarbij de verschillende daarmee samenhangende begrippen in het kort worden verklaard. Vervolgens wordt nader ingegaan op de historische ontwikkeling van Riel, alsmede op de thans nog aanwezige historisch-ruimtelijke kwaliteiten.
 
-## Ontstaan en ontwikkeling
-### Algemeen
+### Ontstaan en ontwikkeling
+#### Algemeen
 Het geologische karakter van de Brabantse zandgronden wordt bepaald door de Centrale Slenk, eem brede verzakking tussen de breuklijnen Roermond-Oss-Alkmaar en Sittard-Leiden. Deze slenk, waarvan de ondergrond is opgebouwd uit rivierafzettingen van de Maas en de Rijn, is bedekt met dekzanden, die gedurende de laatste ijstijden door de wind zijn afgezet. Vooral in de Centrale Slenk zijn de dekzanden neergelegd in grote, langgerekte ruggen die een zuidwest noordoost oriëntatie hebben. Op de dekzandruggen hebben zich in latere perioden uitgebreide verstuivingen voorgedaan.
 
 Oorspronkelijk bezaten de zuidelijke zandgronden een bosvegetatie. Vanaf het Neolithicum, maar vooral in de IJzertijd en de Romeinse tijd werden ten gevolge van menselijke occupatie grote stukken bos gekapt. Op de zo ontstane open ruimten vormde zich bosvegetatie, die later, in de periode van ca 300-600 na Christus toen de bevolking strek terugliep, weer plaats maakte voor bos.
@@ -37,7 +37,7 @@ Daarenboven bracht de economische opleving na circa 1800 een verdere ontginning 
 
 Vooral na de Tweede Wereldoorlog hebben vele dorpen een aanzienlijke uitbreiding ondergaan. In veel gevallen herinnert alleen de driehoekige plaatse nog aan de oorspronkelijke dorpsomvang.
 
-### Riel
+#### Riel
 Als onderdeel van het dorp Zesgehuchten maakte Riel vanaf de 15e eeuw deel uit van de Meijerij van 's-Hertogenbosch en wel van het gedeelte dat wordt aangeduid als het Kwartier Kempenland. Zesgehuchten vormde een onderdeel van de vrije heerlijkheid Heeze-Leende-Zesgehuchten. De heelijkheid wordt voor het eerst in de 12e eeuw vermeld, maar de naam Zesgehuchten komt pas voor het eerst in de 1659 voor. Behalve Riel, bestaat het dorp dan uit Stalbrecht, Kraey, Hesrenbosch, Molenstraat en Den Venen Emerik.De oudst bekende schriftelijkevermelding van Riel dateert uit het begin van de 14e eeuw, wanneer twee in het zuiden van de nederzetting gelegen pachthoeven worden verworven door de Bossche instelling voor armenzorg en Tafel van de Heilige Geest.
 
 De plaatsnaam Riel ( in 1526 Ryele) lijkt te verwijzen naar een ontginning in een bos- of rietrijke omgeving, dan wel naar een waterloop ter plaatse. Vast staat, dat de twee eerder genoemde hoeven waren gelegen op een pleistocene dekzandrug, plaatselijk de Donck genoemd, waarlangs het beekje de Lakerloop stroomde. De dikte van de eslaag in dit deel van de nederzetting, de door plaggenmesting ontstane ophoging, geeft aan dat dit deel het langst bewoonde gedeelte is.
@@ -54,7 +54,7 @@ De twee meer noordelijk gelegen driehoekige ruimten zijn waarschijnlijk van jong
 
 Omstreeks 1800 telde het dorp Zesgehuchten 751 inwoners. In Riel stonden in 1845 ongeveer 24 huizen, die aan 150 inwoners onderdak boden. Een vergelijking van de huidige toestand met de kadastale minuut laat zien dat sindsdien nauwelijks veranderingen zijn opgetreden. De bebouwingsvlakken wijken op sommige platsen enigsins af, wat het gevolg kan zijn van latere uitbreidingen of vervangende nieuwbouw. Sommige boerderijen, zoals aan de westzijde van de plaatse, zijn thans niet meer aanwezig. Ook het wegenbeloop aan de noordzijde van de nederzetting is aan verandering onderhevig geweest. Voorts is er thans sprake van een grootschaliger parcelering. In hoofdzaak is de historische nederzettingsstructuur echter behouden gebleven.
 
-## Huidig ruimtelijk karakter
+### Huidig ruimtelijk karakter
 De bestaande ruimtelijke structuur vertoont zoals gezegd nog grote overeenkomsten met de situatie die is weergegeven op de kadastrale minuut. Centraal in het gehucht bevindt zich een driehoekige plaatse. Deze is (opnieuw) beplant met eiken en de oorspronkelijke drenkkuil (later brandkuil) is nog herkenbaar. Rond de plaatse waren tot voor kort vier langgevelboerderijen gesitueerd; de meest westelijke is onlangs gesloopt. Op de plaatse kwamen de wegen naar Geldrop, Stratum, en Urkhoven samen. De voormalige akkerwegen (naar Stratum en Geldrop) in oostelijke en westelijke richting leidden naar de bouwlandcomplexen, de wegn in noordelijke en zuidelijke richting waren de dreven die leidden naar de Rielse Heide.
 
 Een aantal erven is, evenals de weilandpercelen, nog omgeven door hagen. Dit heeft, samen met de wat hogere ligging van de akkers, een min of meer besloten beeld van binnen uit tot gevolg, waarbij lange zichtlijnen ontbreken. Hierdoor blijft de invloed van de nabij gelegen stedelijke bebouwing van Eindhoven beperkt.
@@ -65,10 +65,10 @@ De bebouwing bestaat uit één bouwlaag met een kap, de nok evenwijdig aan de we
 
 Sommige voormalige boerderijen zijn thans alleen als woonhuis in gebruik, hetgeen onder meer tot uiting komt in de aanleg van siertuinen ophet oorspronkelijke huiserf. In het algemeen is de agrarische functie echter behouden gebleven, hetgeen in belangrijke mate bijdraagt aan het histirische karakter. Het perceel waarop vroeger het Speelhuis was gelegen, is aan de smalle gracht er omheen nog goed herkenbaar. Ofschoon sedert de 19e eeuw een aantal veranderingen in wegenbeloop en bebouwing zijn opgetreden, is de oorspronkelijke structuur nog goed herkenbaar en is ook de bebouwingskarakteristiek van waarde gebleven. Het beschermingsbelang is dan ook met name gelegen in het behoud van deze structuurbepalende elementen, te weten aard en inrichting van de open ruimten, het wegenbeloop, de wegprofielen en het agrarische cultuurlandschap aangrenzend aan de nederzetting, de op de agrarische functie geënte bebouwingsstructuur, het nog aanwezige historische bebouwingsbeeld en de relatie met het omringende landschap.
 
-## De omgrenzing
+### De omgrenzing
 Het beschermde dorpsgezicht omvat de gehele nederzetting, met inbegrip van de aangrenzende landbouw- en weidegronden, voor zover die een directe structurele en visuele relatie met het dorp bezitten. Daarbij is er naar gestreefd zoveel mogelijk aansluiting te zoeken bij de in het veld aanwezige en herkenbare gegevens, zoals bomenrijen, wallen, wegen, paden en perceelgrenzen. Aan de oorstzijde van het dorpsgezicht heeft dat er toegeleid dat ook enige percelen over de gemeentegrens met Geldrop in de bescherming zijn betrokken, omdat anders aan die zijde een te dicht op de bebouwing gelegen en onsamenhangend grensbeloop zou zijn verkregen.
 
-## Rechtsgevolg van de bescherming
+### Rechtsgevolg van de bescherming
 Ter effectuering van de bescherming van het aangewezen dorpsgezicht, moet ingevolge artikel 37, lid 8 van de Wet op de Ruimtelijke Ordening een bestemmingsplan worden vastgesteld of herzien. De toelichting op de aanwijzing als beschermd dorpsgezicht kan daarbij wat het beschermingsbelang betreft als uitgangspunt dienen.
 
 Doel van de aanwijzing is de karakeristieke met de historische ontwikkeling samenhangende structuur en de ruimtelijke kwaliteit van het gebied te onderkennen als een zwaarwegend belang bij verdere ontwikkelingen binnen het gebied.
