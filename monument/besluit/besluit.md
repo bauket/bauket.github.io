@@ -1,4 +1,4 @@
-# Besluit tot aanwijzing
+## Besluit tot aanwijzing
 
 Ministerie van Welzijn, Volksgezondheid en Cultuur
 
