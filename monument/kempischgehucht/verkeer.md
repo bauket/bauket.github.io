@@ -1,4 +1,5 @@
-# Riel - een Kempisch gehucht
+###### Riel - een Kempisch gehucht
+
 ## 4. Verkeer
 Riel is verkeerskundig gezien een betrekkelijk slecht ontsloten gebied waardoor het geïsoleerd ligt ten opzichte van Eindhoven en Geldrop. De belangrijkste ontsluitingsweg is de Rielsedijk. Deze is vooral voor fietsers een verbindingsweg van Eindhoven naar Geldrop. Verkeer in zuidelijke richting is van weinig betekenis.
 
