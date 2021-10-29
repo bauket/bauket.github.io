@@ -69,37 +69,37 @@ Riel 14 - Langgevel op de plaats van een zeer oude boerderij, vermoedelijk uit d
 uit 2008 te zien.
 
 ### Riel 20
-![Riel 20](riel20.jpg)
+![Rielsedijk 20](rielsedijk20.jpg)
 
 Rielsedijk 20 - Na de brand van 1921 werd deze boerderij herbouwd in afwijkende stijl. Het werd een Gelderse boerderij, aangezien de eigenaar uit Gelderland kwam. Heeft tot de verbouwing in 1974 als boerenbedrijf gefunctioneerd. Nu woonhuis en in 1997 is de schuur passend bij het huis gebouwd.
 
 ### Riel 21
-![Riel 21](riel21.jpg)
+![Rielsedijk 21](rielsedijk21.jpg)
 
 Rielsedijk 21 - Na de brand van 1876 werd de boerderij gebouwd op de fundamenten van een veel oudere boerderij en stond op de lijst van rijksmonumenten. In 1991 brandde de boerderij af. De huidige langgevel dateert uit 2001.
 
 ### Riel 22
-![Riel 22](riel22.jpg)
+![Rielsedijk 22](rielsedijk22.jpg)
 
 Rielsedijk 22 - Deze langgevelboerderij was aan het begin van de 20e eeuw nog een boerenwoning. De huidige stenen boerderij is verbouwd tot woonhuis
 
 ### Riel 22a
-![Riel 22a](riel22a.jpg)
+![Rielsedijk 22a](rielsedijk22a.jpg)
 
 Rielsedijk 22a - Oorspronkelijke boerderij brandde af in 1921 en werd toen niet herbouwd. Pas in 2002 werd de huidige woonboerderij gebouwd.
 
 ### Riel 22b
-![Riel 22b](riel22b.jpg)
+![Rielsedijk 22b](rielsedijk22b.jpg)
 
 Rielsedijk 22b - Deze woonboerderij met schuur werd in 2003, wat verder naar de hoek dan vroeger, gebouwd.
 
 ### Riel 23
-![Riel 23](riel23.jpg)
+![Rielsedijk 23](rielsedijk23.jpg)
 
 Rielsedijk 23 - Landarbeiderswoning die ook in 1876 afbrandde. Hij is herbouwd in steen en is in 1985 verbouwd tot het huidige huis. In 1988 is de houten schop er naast gezet.
 
 ### Riel 24
-![Riel 24](riel24.jpg)
+![Rielsedijk 24](rielsedijk24.jpg)
 
 Rielsedijk 24 - Boerderijachtig woonhuis met mansarde kap. Een paar keer wat veranderd en in 2007 werd de schuur gebouwd.
 
