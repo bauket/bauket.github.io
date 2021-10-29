@@ -21,7 +21,10 @@ Over het verleden van Riel en de omgeving is volop geschreven
 ### Omgeving
 De directe omgeving van Riel wordt gekenmerkt door hoge akkers, akkerwallen met kreupelhout en boomgaarden.
 Hier valt veel te wandelen en te fietsen.
+
 In "Gijzenrooi, houw 't groen" is een impressie verschenen van [wandelingen door de vier seizoenen](wandelingen-door-gijzenrooi), door P. v. Beek.
+
+Door figuratieve schilder Titia Droog zijn [de boerderijen van Riel](titia) vereeuwigd.
 
 ### Buren van Riel
 - [Bewonersvereniging Gijzenrooi](http://www.gijzenrooi.nl/)
