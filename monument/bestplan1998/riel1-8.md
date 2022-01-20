@@ -19,8 +19,7 @@ De boerderij is van belang voor het beschermd dorpsgezicht en dient gehandhaafd 
 ### Riel 2
 Deze boerderij dateert uit 1876. Dit is vast te stellen aan de jaarankers die tegen de zijgevel zijn aangebracht. De boerderij is enkele keren verbouwd.
 
-![Riel 2](images/riel2y.jpg)  
-*Riel 2 (Foto: Yvonne Henderson)*
+![Riel 2](images/riel2y.jpg)*Riel 2 (Foto: Yvonne Henderson)*
 
 Ook hier is sprake van een langgeveltype. Ze heeft een zadeldak met wolfseinden, gedekt met blauwe verbeterde hollandse pannen op het woonhuis en blauwe oudhollandse pannen op stal en schuurgedeelte.
 De gevel heeft lelijke vernieuwde zesruits ramen in het woonhuis.
