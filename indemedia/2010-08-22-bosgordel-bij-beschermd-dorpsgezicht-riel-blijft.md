@@ -5,8 +5,7 @@
 ![ ](images/20100822zne.jpg)<br/>
 _Rijksmonument in Riel. foto: Mark Bergsma_
 
-** Eindhoven - 
-De bosgordel bij Riel die het beschermd dorpsgezicht afscheidt van de nieuwbouwwijk Gijzenrooi/Putten blijft.
+**Eindhoven - De bosgordel bij Riel die het beschermd dorpsgezicht afscheidt van de nieuwbouwwijk Gijzenrooi/Putten blijft.
 Wel wordt er de komende jaren kleinschalig en verdeeld over de jaren onderhoud uitgevoerd, onder meer door het afzetten van beplanting.**
 
 Dit is de uitkomst van de succesvolle bemiddeling tussen de gemeente, buurtvereniging Riel en andere betrokkenen.
