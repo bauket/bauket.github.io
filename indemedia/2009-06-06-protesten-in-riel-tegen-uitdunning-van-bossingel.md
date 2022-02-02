@@ -1,4 +1,4 @@
-##### Bewoner dreigt met kort geding tegen 'rigoureus' beheerplan
+#### Bewoner dreigt met kort geding tegen 'rigoureus' beheerplan
 
 # Protesten in Riel tegen uitdunning van bossingel
 
@@ -6,8 +6,7 @@
 
 **EINDHOVEN - Bewoners van Riel vrezen voor 'inkijk' vanuit Gijzenrooi en Putten in het beschermde dorpsgezicht. Een 'rigoureus' onderhoudsplan van de gemeente Eindhoven zou de huidige afschermende functie van de bossingel teniet doen.**
 
-Het onderhoudsplan is voor commentaar aan de bewoners voorgelegd. Zowel de buurtvereniging Riel als bewoner C. de Heus heeft zijn reactie naar de gemeente gestuurd. De Heus dreigt een kort geding aan te spannen als B en
-W besluiten het plan door te zetten, zo heeft hij verantwoordelijk wethouder Mary Fiers (PvdA, wonen en ruimte) laten weten
+Het onderhoudsplan is voor commentaar aan de bewoners voorgelegd. Zowel de buurtvereniging Riel als bewoner C. de Heus heeft zijn reactie naar de gemeente gestuurd. De Heus dreigt een kort geding aan te spannen als B en W besluiten het plan door te zetten, zo heeft hij verantwoordelijk wethouder Mary Fiers (PvdA, wonen en ruimte) laten weten.
 
 De buurtvereniging maakt zich zorgen over de gevolgen van het beheerplan voor het doorzicht, zegt woordvoerder Bauke Teerenstra. "De bal ligt nu bij de gemeente."
 
