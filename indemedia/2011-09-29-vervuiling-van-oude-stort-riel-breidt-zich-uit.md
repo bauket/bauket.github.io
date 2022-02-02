@@ -1,9 +1,13 @@
 #### Oude vuilstort 500.00 kuub verontreinigd
 
-## Vervuiling van oude stort Riel breidt zich uit
-_(Verschenen in het Eindhovens Dagblad, 29 september 2011, door Rob Burg)_
+# Vervuiling van oude stort Riel breidt zich uit
 
-Eindhoven – De aanpak door de gemeente Eindhoven van de oude, ernsig verontreinigde stortplaats Gijzenrooi zorgt voor verontrusting onder enkele bewoners van het gehucht Riel. Uiterlijk 1 januari 2015 moet dat plan gereed zijn, of moet begonnen zijn met “saneren”. Volgens de gemeente kan dat laatste ook betekenen dat er alleen gemonitord wordt. Daarbij wordt met behulp van peilbuizen gekeken hoe de verontreiniging zich verplaatst.
+##### _(Verschenen in het Eindhovens Dagblad, 29 september 2011, door Rob Burg)_
+###### _(Verschenen in het Eindhovens Dagblad, 29 september 2011, door Rob Burg)_
+##### (Verschenen in het Eindhovens Dagblad, 29 september 2011, door Rob Burg)
+###### (Verschenen in het Eindhovens Dagblad, 29 september 2011, door Rob Burg)
+
+**Eindhoven – De aanpak door de gemeente Eindhoven van de oude, ernsig verontreinigde stortplaats Gijzenrooi zorgt voor verontrusting onder enkele bewoners van het gehucht Riel. Uiterlijk 1 januari 2015 moet dat plan gereed zijn, of moet begonnen zijn met “saneren”. Volgens de gemeente kan dat laatste ook betekenen dat er alleen gemonitord wordt. Daarbij wordt met behulp van peilbuizen gekeken hoe de verontreiniging zich verplaatst.**
 
 - Verontreiniging oude stortplaats bij Riel verspreidt zich.
 - Eerdere maatregel – afdekken van de grond – schiet tekort.
