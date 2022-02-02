@@ -1,10 +1,10 @@
-## Oude landschap keert terug in Gijzenrooi
+# Oude landschap keert terug in Gijzenrooi
 
 ##### _(Verschenen in het Eindhovens Dagblad, 23 september 2010, door Simon Rood)_
 
 **Geldrop – Gijzenrooi gaat terug in de tijd. Het landelijke gebied tussen Eindhoven en Geldrop wordt heringericht, waarmee het landschap van rond 1900 deels in ere wordt hersteld.**
 
-![ED](images/20100923ed.jpg)<br/>
+![ED](images/20100923ed.jpg "Het landschap in Gijzenrooi")<br/>
 _Het landschap in Gijzenrooi wordt deels weer zoals het rond 1900 was
 (foto: Irene Wouters)_
 
