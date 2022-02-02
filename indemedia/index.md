@@ -19,7 +19,7 @@
 
 2008
 - [Heilige Maagd, wees gegroet in Riel](2008-09-16-heilige-maagd-wees-gegroet-in-riel)
-- [Maria van Zeven Smarten terug in Riel](2008-06-24-maria-van-zeven-smarten-terug-in-riel)
+- [Maria van Zeven Smarten terug in Riel](2008-07-24-maria-van-zeven-smarten-terug-in-riel)
 - 'Je mag hier alles, ook lanterfanten', Eindhovens Dagblad (2008-06-04)
 
 2007
@@ -50,5 +50,5 @@
 
 Ouder
 - De Wandeling - Geldrop, Omroep Brabant (2001-11-20)
-- Teun Gijssen: 'Ik blijf gewoon zitten'. Eindhovens Dagblad (1999-06-30)
-- Beschermd Dorpsgezicht Riel. Nieuwsbrief Boerderijenstichting Noord-Brabant (1995-06-28)
+- [Teun Gijssen: 'Ik blijf gewoon zitten'](1999-06-30-teun-gijssen-ik-blijf-gewoon-zitten)
+- [Beschermd Dorpsgezicht Riel](1995-06-28-beschermd-dorpsgezicht-riel) Nieuwsbrief Boerderijenstichting Noord-Brabant (1995-06-28)
