@@ -5,14 +5,16 @@
 ##### Door Mario Bouwmans<br/>(Verschenen in Eindhovens Dagblad, 30 juni 1999)
 
 **&quot;Ik mag hier wonen van begin tot eind, hebben ze bij Philips gezegd. Ik 
-			blijf gewoon zitten.&quot; In zijn vervallen woonstee op Riel, het gehucht 
-			halverwege Eindhoven en Geldrop, is kunstenaar en kluizenaar Teun Gijssen alle 
-			opwinding over een mogelijke dubieuze grondtransactie binnen het 
-			Philips-concern ontgaan.**
-      
+blijf gewoon zitten.&quot; In zijn vervallen woonstee op Riel, het gehucht 
+halverwege Eindhoven en Geldrop, is kunstenaar en kluizenaar Teun Gijssen alle 
+opwinding over een mogelijke dubieuze grondtransactie binnen het 
+Philips-concern ontgaan.**
+
+<!--
 ![ ](images/19990630ed.jpg)<br/>
 _De woonstee van Teun Gijssen op Riel, gelegen op het perceel waarover binnen Philips rumoer is ontstaan.<br>
 (Foto: Ton de Hond)_
+-->
 
 De bijna negentigjarige Teun Gijssen woont en werkt op die bewuste grond: 
 5000&nbsp;m<sup>2</sup> - en niet vijf hectare zoals gisteren per vergissing 
