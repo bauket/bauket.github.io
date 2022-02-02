@@ -1,6 +1,6 @@
-# Politie zoekt getuigen van poging straatroof Rielsedijk</h1>
+# Politie zoekt getuigen van poging straatroof Rielsedijk
 
-##### Verschenen in Eindhovens Dagblad, 26 maart 2010
+##### (Verschenen in Eindhovens Dagblad, 26 maart 2010)
 
 **Eindhoven, Geldrop - De politie zoekt getuigen van een incident dat woensdagavond omstreeks 19.15 uur plaatsvond op de Rielsedijk. Een 17-jarig meisje uit Geldrop fietste vanuit Eindhoven over de Rielsedijk richting haar woonplaats. Op een gegeven moment werd haar de doorgang belemmerd door een viertal jongens die met hun fiets op het fietspad stonden.**
 
