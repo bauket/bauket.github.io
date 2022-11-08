@@ -6,7 +6,7 @@ In 1992 is de buurtvereniging "Riel, de parel van de Zesgehuchten" opgericht.
 Het bestuur van de vereniging bestaat uit
 - Titia Droog (interim voorzitter)
 - Peter Dekkers (secretaris)
-- Dirk-Jan Horrevorts (penningmeester)
+- Ron van Schaaijk (penningmeester)
 - Laurens Vehmeijer (commissie onderhoud)
 
 ### Doelstelling
