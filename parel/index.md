@@ -4,7 +4,7 @@ In 1992 is de buurtvereniging "Riel, de parel van de Zesgehuchten" opgericht.
 
 ### Bestuur
 Het bestuur van de vereniging bestaat uit
-- Titia Droog (interim voorzitter)
+- Jolanda Sloots (voorzitter)
 - Peter Dekkers (secretaris)
 - Ron van Schaaijk (penningmeester)
 - Laurens Vehmeijer (commissie onderhoud)
@@ -17,4 +17,4 @@ Artikel 4: De vereniging stelt zich ten doel:
 
 ### Contactgegevens
 Riel, de parel van de Zesgehuchten.  
-Email: <a href="mailto:info@dorpsgezichtriel.nl">info@dorpsgezichtriel.nl</a>
+Email: <info@dorpsgezichtriel.nl>
